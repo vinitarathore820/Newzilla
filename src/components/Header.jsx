@@ -29,7 +29,7 @@ const Header = () => {
         {isDark ? '☀️ Light' : '🌙 Dark'}
       </button>
     </header>
-  );
+  );  
 };
 
 export default Header;
